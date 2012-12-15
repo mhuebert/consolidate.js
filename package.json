@@ -33,6 +33,7 @@
     "ect": "0.2.10",
     "mote": "0.2.0",
     "toffee": "0.0.52",
+    "jsdom": "0.3.1",
     "serenade": "https://github.com/elabs/serenade.js/archive/0.3.0.tar.gz"
   },
   "main": "index",

@@ -23,6 +23,7 @@
   - [liquor](https://github.com/chjj/liquor)
   - [mustache](https://github.com/janl/mustache.js)
   - [QEJS](https://github.com/jepso/QEJS)
+  - [serenade.js](https://github.com/elabs/serenade.js)
   - [swig](https://github.com/paularmstrong/swig) [(website)](http://paularmstrong.github.com/swig/)
   - [toffee](https://github.com/malgorithms/toffee)
   - [underscore](https://github.com/documentcloud/underscore) [(website)](http://documentcloud.github.com/underscore/)
